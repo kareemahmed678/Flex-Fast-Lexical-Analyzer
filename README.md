@@ -46,10 +46,6 @@ float y = 20.5;
 
 The output will display the recognized tokens.
 
-## Resources
-This project was inspired by tutorials and resources on compiler design. A key resource for this project was:
-- [Flex Tutorial on YouTube](https://www.youtube.com/watch?v=54bo1qaHAfk&t=517s)
-
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
