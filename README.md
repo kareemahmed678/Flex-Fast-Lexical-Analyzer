@@ -34,14 +34,16 @@ To run this project, you need:
 
 3. Run the lexical analyzer:
    ```bash
-   .\lexer.exe < input.txt
+   .\lexer.exe < input.txt > tokens.txt
    ```
 
 ### Example Input
 Create an `input.txt` file with the following contents:
 ```
-int x = 10;
-float y = 20.5;
+int sum , count , pass , mnt; while (pass != 10)
+{
+pass = pass + 1 ;
+}
 ```
 
 The output will display the recognized tokens.
