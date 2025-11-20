@@ -34,7 +34,7 @@ To run this project, you need:
 
 3. Run the lexical analyzer:
    ```bash
-   ./lexer < input.txt
+   .\lexer.exe < input.txt
    ```
 
 ### Example Input
